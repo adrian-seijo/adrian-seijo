@@ -6,7 +6,7 @@ During this time I learned to love the web and I'm always looking for projects t
 
 I live on 🇬🇧 London for a while but I'm from 🇪🇸 Spain originally so I just relocated back and I'm focusing on remote work.
 
-You can reach me on:
+You can reach me at:
 
 - 🔗  &nbsp; [LinkedIn](https://www.linkedin.com/in/adrianseijo/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B3epAHBqRTXaSH4E%2BE8qJjg%3D%3D)
 - ✉️ &nbsp; [Email](mailto:kileras+github@gmail.com)
