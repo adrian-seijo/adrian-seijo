@@ -1,10 +1,10 @@
 ### Hi there I'm Adrian 👋
 
-I'm a Web Developer with more than 15 years of experience. I have work on many places, from companies with more founders than employees to some of the bigest companies on the world, and on multiple areas like 🛒 eCommerce, 💰 Fintech and 📊 Big data.
+I'm a Web Developer with almost 20 years of experience. I have work on many places, from companies with more founders than employees to some of the bigest companies on the world, and on multiple areas like 🛒 eCommerce, 💰 Fintech and 📊 Big data.
 
 During this time I learned to love the web and I'm always looking for projects to love where I can help build amazing experiences that showcase the potential the web has.
 
-I live on 🇬🇧 London for a while but I'm from 🇪🇸 Spain originally so I just relocated back and I'm focusing on remote work.
+I'm originally from 🇪🇸 Spain but I have been living in  🇬🇧 London for the last 10 years.
 
 You can reach me at:
 
